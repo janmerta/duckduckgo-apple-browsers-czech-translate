@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>DuckDuckGo</string>
+	<key>NSAppDataUsageDescription</key>
+	<string>DuckDuckGo bude bezpečně přistupovat k vašemu trezoru Bitwarden a automaticky vyplňovat vaše hesla. Pokud chcete, aby se tento dialog příště nezobrazoval, přejděte do Nastavení systému Macu &gt; Soukromí a zabezpečení &gt; Úplný přístup k disku a zapněte DuckDuckGo, případně se vraťte k integrovanému správci hesel.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Umožňuje webovým stránkám požádat o přístup k fotoaparátu pro videohovory, nahrávání a odesílání videí nebo pořizování a odesílání fotografií.</string>
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>Umožňuje ukládat soubory do složky Plocha v počítači.</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>Umožňuje ukládat soubory do složky Dokumenty v počítači.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>Umožňuje ukládat soubory do složky Stažené soubory v počítači.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2025 DuckDuckGo. Všechna práva vyhrazena.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Umožňuje webovým stránkám požádat o přístup k vaší poloze za účelem zpřesnění výsledků vyhledávání, poskytování informací o počasí a trasách nebo zobrazení míst v okolí.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Umožňuje sdílet vaši polohu.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Umožňuje webovým stránkám požádat o přístup k mikrofonu pro audiohovory a videohovory nebo nahrávání a odesílání zvuku.</string>
+</dict>
+</plist>
