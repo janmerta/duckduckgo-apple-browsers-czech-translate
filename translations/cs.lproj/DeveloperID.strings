@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>letsmove.alert.message</key>
+	<string>Aby některé funkce správně fungovaly, musí být aplikace DuckDuckGo ve složce Aplikace.</string>
+	<key>letsmove.alert.title</key>
+	<string>Už jste skoro tam!</string>
+	<key>letsmove.could.not.move</key>
+	<string>Nelze přesunout do složky Aplikace</string>
+	<key>letsmove.dont.move.button</key>
+	<string>Nepřesouvat</string>
+	<key>letsmove.move.button</key>
+	<string>Přesunout do složky Aplikace</string>
+</dict>
+</plist>
