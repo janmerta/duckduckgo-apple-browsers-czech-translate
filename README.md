@@ -1,0 +1,25 @@
+# Český překlad DuckDuckGo pro macOS
+
+Tento repozitář uchovává české lokalizační soubory aplikace DuckDuckGo pro macOS.
+
+## Překlad
+
+Aktuální české soubory jsou ve složce [`translations/cs.lproj`](translations/cs.lproj):
+
+- `Localizable.strings`
+- `Localizable.stringsdict`
+- `InfoPlist.strings`
+- `DeveloperID.strings`
+
+## Sledování nových textů
+
+Workflow `Watch DuckDuckGo localization strings` sleduje lokalizační klíče v oficiálním
+repozitáři [`duckduckgo/apple-browsers`](https://github.com/duckduckgo/apple-browsers).
+Spouští se jednou týdně a lze jej spustit také ručně v záložce **Actions**.
+
+Při prvním běhu vytvoří výchozí snapshot. Při dalších změnách založí issue s přehledem
+přidaných a odstraněných klíčů a snapshot automaticky aktualizuje. Workflow používá pouze
+standardní `GITHUB_TOKEN`; není potřeba ukládat vlastní přístupový token.
+
+Původní repozitář `duckduckgo/macos-browser` byl archivován a vývoj byl přesunut do
+`duckduckgo/apple-browsers`, proto se změny sledují tam.
