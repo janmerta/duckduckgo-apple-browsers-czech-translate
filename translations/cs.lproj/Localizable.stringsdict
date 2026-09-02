@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fire.dialog.cookies.count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Odstranit data z %1$#@sites@. Může dojít k odhlášení z účtů.</string>
+		<key>sites</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%1$d web</string>
+			<key>other</key>
+			<string>%1$d webů</string>
+			<key>few</key>
+			<string>%1$d weby</string>
+		</dict>
+	</dict>
+	<key>fire.dialog.history.count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Odstranit %1$#@items@.</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%1$d položku</string>
+			<key>other</key>
+			<string>%1$d položek</string>
+			<key>few</key>
+			<string>%1$d položky</string>
+		</dict>
+	</dict>
+	<key>fire.dialog.history.count.tab</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Odstranit %1$#@items@ z této karty.</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%1$d položku</string>
+			<key>other</key>
+			<string>%1$d položek</string>
+			<key>few</key>
+			<string>%1$d položky</string>
+		</dict>
+	</dict>
+	<key>fire.dialog.history.count.window</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Odstranit %1$#@items@ z tohoto okna.</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%1$d položku</string>
+			<key>other</key>
+			<string>%1$d položek</string>
+			<key>few</key>
+			<string>%1$d položky</string>
+		</dict>
+	</dict>
+	<key>omnibar.notification.trackers.blocked</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%1$#@trackers@</string>
+		<key>trackers</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%1$d zablokovaný sledovací prvek</string>
+			<key>other</key>
+			<string>%1$d zablokovaných sledovacích prvků</string>
+			<key>few</key>
+			<string>%1$d zablokované sledovací prvky</string>
+		</dict>
+	</dict>
+	<key>permission.popup.title</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%1$#@popups@</string>
+		<key>popups</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%1$d zablokované vyskakovací okno</string>
+			<key>other</key>
+			<string>%1$d zablokovaných vyskakovacích oken</string>
+			<key>few</key>
+			<string>%1$d zablokovaná vyskakovací okna</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
