@@ -1,0 +1,86 @@
+name: Watch DuckDuckGo localization strings
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: watch-upstream-strings
+  cancel-in-progress: false
+
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out Czech translation repository
+        uses: actions/checkout@v4
+
+      - name: Check out current DuckDuckGo sources
+        uses: actions/checkout@v4
+        with:
+          repository: duckduckgo/apple-browsers
+          path: upstream
+          fetch-depth: 1
+
+      - name: Build current localization-key snapshot
+        run: |
+          python3 scripts/watch_upstream_strings.py upstream upstream-keys.new.txt
+          git -C upstream rev-parse HEAD > upstream-commit.txt
+
+      - name: Compare snapshots
+        id: compare
+        shell: bash
+        run: |
+          if [[ ! -f upstream-keys.txt ]]; then
+            echo "baseline=true" >> "$GITHUB_OUTPUT"
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          if cmp -s upstream-keys.txt upstream-keys.new.txt; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          comm -13 upstream-keys.txt upstream-keys.new.txt > added-keys.txt
+          comm -23 upstream-keys.txt upstream-keys.new.txt > removed-keys.txt
+          {
+            echo "# Změny lokalizačních klíčů DuckDuckGo pro macOS"
+            echo
+            echo "Zdroj: duckduckgo/apple-browsers@$(cat upstream-commit.txt)"
+            echo
+            echo "## Přidané klíče"
+            echo '```text'
+            head -n 200 added-keys.txt
+            echo '```'
+            echo
+            echo "## Odstraněné klíče"
+            echo '```text'
+            head -n 200 removed-keys.txt
+            echo '```'
+            echo
+            echo "Pokud je změn více než 200, úplný seznam je v diffu souboru upstream-keys.txt."
+          } > issue-body.md
+
+      - name: Open translation update issue
+        if: steps.compare.outputs.changed == 'true' && steps.compare.outputs.baseline != 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "Nové nebo změněné překladové stringy" --body-file issue-body.md
+
+      - name: Update tracked snapshot
+        if: steps.compare.outputs.changed == 'true'
+        shell: bash
+        run: |
+          mv upstream-keys.new.txt upstream-keys.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add upstream-keys.txt
+          git commit -m "Update DuckDuckGo localization key snapshot"
+          git push
