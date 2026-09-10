@@ -199,6 +199,9 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.chrome.open-ai-settin
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.chrome.show-ask-duckai-button
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.chrome.show-duckai-button
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.chrome.show-sidebar-button
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.createImage.modelSwitch.privacy.subtitle
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.createImage.modelSwitch.subtitle
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.createImage.modelSwitch.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.customize-button.tooltip
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.customize-responses-button.label
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.customize-responses-tool.subtitle
