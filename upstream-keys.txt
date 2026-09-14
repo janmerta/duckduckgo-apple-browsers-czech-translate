@@ -139,6 +139,7 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	`continue`
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	about.app_name
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	about.app_name_app_store
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	action-cannot-be-undone
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	action.title.chats
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	add.all.to.bookmarks
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	add.bookmark.name
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	add.link.to.bookmarks
