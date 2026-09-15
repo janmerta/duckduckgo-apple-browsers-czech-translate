@@ -2581,6 +2581,7 @@ macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcst
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.authentication-cancelled-v2.close-button
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.authentication-cancelled-v2.subtitle
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.authentication-cancelled-v2.title
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.authentication-cancelled-v2.try-again-button
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.bookmarks-section-title-v2
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.card-footer
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.card-footer-updated
@@ -2615,6 +2616,7 @@ macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcst
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.share-favorite-option-caption-v2
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.share-favorite-option-title-v2
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.single-device-setup.action
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.success-v2.copied-code-button
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.success-v2.copy-code-button
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.success-v2.description
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.success-v2.download-pdf-button
@@ -2624,8 +2626,6 @@ macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcst
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.copied
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.copy-confirmation-message
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.copy-confirmation-title
-macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.enter-step-1-detail
-macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.enter-step-1-prefix
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.enter-step-3
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.enter-tab
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.enter-title
@@ -2638,6 +2638,7 @@ macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcst
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.scan-title
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.step-2-detail
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.step-2-prefix
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.step-4
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device.copy-confirmation.message
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device.copy-confirmation.title
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device.dialog-subtitle1
