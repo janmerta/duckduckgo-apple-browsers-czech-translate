@@ -1,0 +1,25 @@
+/* Czech updates for macOS/DuckDuckGo/Localization/Localizable.xcstrings
+   Verified against DuckDuckGo apple-browsers main on 2026-09-22. */
+
+"action.title.chats" = "Chaty";
+"aichat.createImage.modelSwitch.privacy.subtitle" = "%@ neumí vytvářet obrázky. Ochrana Zero Provider Visibility se nepoužije, dokud nepřepnete zpět.";
+"aichat.createImage.modelSwitch.subtitle" = "%@ nepodporuje vytváření obrázků.";
+"aichat.createImage.modelSwitch.title" = "Nyní používáte %@";
+"aichat.usageWarnings.advanced-models-limit-reached" = "Limit pokročilých modelů AI byl vyčerpán";
+"aichat.usageWarnings.daily-limit-reached" = "Denní limit byl vyčerpán";
+"aichat.usageWarnings.daily-usage" = "%d %% denního limitu";
+"aichat.usageWarnings.dismiss.accessibility" = "Zavřít";
+"aichat.usageWarnings.high-usage-model" = "%@ vyčerpá limity využití 2–5× rychleji než základní modely.";
+"aichat.usageWarnings.model-picker.accessibility" = "Vybrat model";
+"aichat.usageWarnings.resets-in" = "Obnoví se za %@";
+"aichat.usageWarnings.start-using-weekly-limit" = "Začít využívat týdenní limit";
+"aichat.usageWarnings.subscribe" = "Předplatit";
+"aichat.usageWarnings.switch-model" = "Přepnout model";
+"aichat.usageWarnings.switch-to-free-model" = "Přepnout na bezplatný model";
+"aichat.usageWarnings.switch-to-model" = "Přepnout na %@";
+"aichat.usageWarnings.try-for-free" = "Vyzkoušet předplatné zdarma";
+"aichat.usageWarnings.weekly-limit-reached" = "Týdenní limit využití byl vyčerpán";
+"aichat.usageWarnings.weekly-usage" = "%d %% týdenního limitu";
+"sync.close-setup-v2.confirmation.action" = "Zavřít";
+"sync.close-setup-v2.confirmation.message" = "Zavřením tohoto okna se zastaví připojování funkce Synchronizace a zálohování.";
+"sync.close-setup-v2.confirmation.title" = "Opravdu chcete toto okno zavřít?";
