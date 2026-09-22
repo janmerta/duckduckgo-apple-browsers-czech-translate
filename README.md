@@ -11,11 +11,13 @@ Aktuální české soubory jsou ve složce [`translations/cs.lproj`](translation
 - `InfoPlist.strings`
 - `DeveloperID.strings`
 
+Nové překlady zachycené sledováním vývoje jsou oddělené podle zdrojového bundle katalogu ve složce [`translations/updates`](translations/updates). Díky tomu lze změny později bezpečně sloučit do odpovídajících `.xcstrings` souborů bez záměny hlavní aplikace a balíčku SyncUI.
+
 ## Sledování nových textů
 
 Workflow `Watch DuckDuckGo localization strings` sleduje lokalizační klíče v oficiálním
 repozitáři [`duckduckgo/apple-browsers`](https://github.com/duckduckgo/apple-browsers).
-Spouští se jednou týdně a lze jej spustit také ručně v záložce **Actions**.
+Spouští se každý den a lze jej spustit také ručně v záložce **Actions**.
 
 Při prvním běhu vytvoří výchozí snapshot. Při dalších změnách založí issue s přehledem
 přidaných a odstraněných klíčů a snapshot automaticky aktualizuje. Workflow používá pouze
