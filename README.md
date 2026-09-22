@@ -25,3 +25,18 @@ standardní `GITHUB_TOKEN`; není potřeba ukládat vlastní přístupový token
 
 Původní repozitář `duckduckgo/macos-browser` byl archivován a vývoj byl přesunut do
 `duckduckgo/apple-browsers`, proto se změny sledují tam.
+
+## Hotový lokalizační balíček
+
+GitHub po každé změně překladů automaticky sestaví ZIP. Nejnovější balíček je
+vždy ke stažení v části [Releases](https://github.com/janmerta/duckduckgo-apple-browsers-czech-translate/releases/tag/czech-latest)
+jako `DuckDuckGo-cs-localization.zip`.
+
+Archiv obsahuje dvě oddělené lokalizace:
+
+- `main-app/cs.lproj` pro hlavní aplikaci DuckDuckGo,
+- `SyncUI-macOS/cs.lproj` pro samostatný resource bundle SyncUI.
+
+Balíček lze sestavit také ručně příkazem
+`python3 scripts/build_localization_package.py`. Výsledek vznikne ve složce
+`dist`.
