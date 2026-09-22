@@ -1,0 +1,47 @@
+name: Build Czech localization package
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "translations/**"
+      - "scripts/build_localization_package.py"
+      - ".github/workflows/build-localization-package.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-czech-localization
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out translation repository
+        uses: actions/checkout@v5
+
+      - name: Build localization package
+        run: python3 scripts/build_localization_package.py
+
+      - name: Upload workflow artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: DuckDuckGo-cs-localization
+          path: dist/DuckDuckGo-cs-localization.zip
+          if-no-files-found: error
+
+      - name: Publish rolling release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          if ! gh release view czech-latest >/dev/null 2>&1; then
+            gh release create czech-latest \
+              --title "Aktuální český lokalizační balíček" \
+              --notes "Automaticky sestavený balíček aktuálních českých překladů pro kontrolu a testování."
+          fi
+          gh release upload czech-latest dist/DuckDuckGo-cs-localization.zip --clobber
