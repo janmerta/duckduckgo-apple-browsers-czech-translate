@@ -186,6 +186,8 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachment.file.too.m
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachment.file.unreadable
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachment.image.count.limit
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachment.image.turn.limit
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachment.privacy.notice.format
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachment.privacy.notice.learnMore
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachment.prompt.too.long
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachment.tab.count.limit
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachment.unavailable
