@@ -23,41 +23,20 @@ macOS/DuckDuckGo/Localization/DeveloperID.xcstrings	letsmove.alert.title
 macOS/DuckDuckGo/Localization/DeveloperID.xcstrings	letsmove.could.not.move
 macOS/DuckDuckGo/Localization/DeveloperID.xcstrings	letsmove.dont.move.button
 macOS/DuckDuckGo/Localization/DeveloperID.xcstrings	letsmove.move.button
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	 
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	 %@
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	%@ does not support storing passwords
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	%@: %@
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	%lld
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	0.0.0.0
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	1.
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Activate to select
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Actual Size
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Add any details that you think may help us fix the problem
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Address
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	After clicking import, your computer may ask you to enter a password. You may need to enter your password two times before importing starts. DuckDuckGo will not see that password.
-
-Imported passwords are stored securely using encryption.
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Align Bookmarks
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Align Bookmarks to Center
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Align Bookmarks to Left
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Always On
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Always Show
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Birthday
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Bookmark import failed.
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Bookmark import failed:
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Bookmarks Import Complete:
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Bookmarks:
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Bring All to Front
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Capitalize
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Center
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Clear All History…
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Contact Info
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Country
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Credit Cards:
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Credit card import failed.
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Credit card import failed: 
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Credit cards import complete. You can now delete the saved credit cards file.
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Data Detectors
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Delete All History…
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Developer
@@ -65,8 +44,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	DuckDuckGo Help
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	DuckDuckGo Subscription
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	DuckDuckGo browser version
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	DuckDuckGo needs your permission to read the %@ bookmarks file. Select the %@ folder to import bookmarks.
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Duplicates Skipped:
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Duplicates Skipped: 
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Enter Full Screen
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Error message & code
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Favorite This Page…
@@ -74,14 +51,9 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	Help
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	History
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Home
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Home Button
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Import Bookmarks
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Import Passwords
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Import Results:
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Import from %@
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Incorrect file type or format. Please select a different file.
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	JavaScript Console
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Left
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Let’s try doing it manually. It won’t take long.
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Make Lower Case
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Make Upper Case
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Manage Bookmarks
@@ -89,11 +61,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	Merge All Windows
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Minimize
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Never Show
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Only Show on New Tab
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Password import complete. You can now delete the saved passwords file.
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Password import failed.
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Password import failed: 
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Passwords:
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	Please submit a report to help us fix the issue.
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Recently Closed
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Reload Page
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Reopen All Windows and Tabs From Last Session
@@ -118,21 +85,11 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	Start Speaking
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Stop
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Stop Speaking
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Text Replacement
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	That didn’t work either. Please submit a report to help us fix the issue.
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	The following information will be sent to DuckDuckGo. No personally identifiable information will be sent.
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	The version of the browser you are trying to import from
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Transformations
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	URL
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	View
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	We couldn't find any credit cards.
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	We couldn‘t find any bookmarks.
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	We couldn‘t find any passwords.
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	We were unable to import bookmarks directly from %@.
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	We were unable to import passwords directly from %@.
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Window
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	You'll be asked to enter your Primary Password for %@.
-
-Imported passwords are encrypted and only stored on this computer.
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Zoom In
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	Zoom Out
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	`continue`
@@ -170,7 +127,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.image-or-
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.images
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.images-or-files-typed
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.no-open-tabs
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.page-content
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.recent-tabs-header
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.tabs-header
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-tabs-modal.attach
@@ -205,7 +161,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.chrome.show-sidebar-b
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.createImage.modelSwitch.privacy.subtitle
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.createImage.modelSwitch.subtitle
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.createImage.modelSwitch.title
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.customize-button.tooltip
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.customize-responses-button.label
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.customize-responses-tool.subtitle
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.customize-responses.ai-role.brainstorm-partner
@@ -246,7 +201,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.customize-responses.y
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.customize-responses.your-role.student
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.customize-responses.your-role.writer
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.file-attachment.accessibility-format
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.file-attachments.limit-error
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.floating.close-confirmation.action
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.floating.close-warning.subtitle
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.floating.close-warning.title
@@ -257,19 +211,11 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.image-upload-button.t
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.mention-picker.no-matches
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.model-picker-button.tooltip
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.model-picker.advanced-models-section-header
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.model-picker.advanced-section-header
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.model-picker.basic-models-section-header
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.model-picker.label.everyday-use
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.model-picker.label.uses-limits-faster
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.model-picker.pro-exclusive
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.model-picker.section.available-with-paid-plans
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.model-picker.section.available-with-pro
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.model-picker.section.try-free
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.model-picker.subscriber-exclusive
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.model-picker.tier-badge.plus
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.model-picker.tier-badge.pro
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.model-picker.try-for-free
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.model-picker.upgrade
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.omnibar.image-gen-placeholder
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.omnibar.image-gen-with-attachment-placeholder
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.omnibar.placeholder
@@ -355,7 +301,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	auth.alert.message.plain
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	auth.alert.password.placeholder
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	auth.alert.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	auth.alert.username.placeholder
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	auto.clear
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	auto.delete
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autoconsent.explanation
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autoconsent.from.setup.modal.body
@@ -407,7 +352,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.password-manager.bi
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.password-manager.bitwarden.extension
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.password-manager.duckduckgo
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.passwords
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.payment-methods
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.popover.autosave.button.text
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.popover.autosave.text
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.popover.change-in
@@ -423,7 +367,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.show-password
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.view-autofill-content.credit-cards
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.view-autofill-content.identities
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.view-autofill-content.passwords
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.view-autofill-content.payment-methods
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	automatically.clear.chats
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	automatically.clear.data
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	badge.new
@@ -477,7 +420,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	bookmarks.bar.preferences.sh
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	bookmarks.bar.prompt.accept
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	bookmarks.bar.prompt.dismiss
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	bookmarks.bar.prompt.message
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	bookmarks.bar.prompt.message.fallback
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	bookmarks.bar.prompt.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	bookmarks.bar.show
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	bookmarks.bar.show.always
@@ -593,7 +535,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	cookie-popup-protection.opt-
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	cookie-popup-protection.opt-in.enabled.secondary-option
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	cookie-popup-protection.opt-in.enabled.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	cookie-popup-protection.opt-in.footer
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	cookie-popup-protection.opt-in.header
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	copy
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	copy-selection
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	copy.email.address
@@ -628,7 +569,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	delete.browsing.data.menu.it
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	delete.history.and.browsing.data.menu.item
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	details
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	disable
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	disable.auto.clear.to.enable.session.restore
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	disable.auto.delete.to.enable.session.restore
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	disable.email.protection.mesage
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	disable.email.protection.title
@@ -806,7 +746,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	feedback.problem-category.br
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	feedback.problem-category.install-updates
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	feedback.problem-category.other-feedback
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	feedback.problem-category.password-issues
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	feedback.problem-category.something-else
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	feedback.problem-subcategory.banner-ads-blocking-content
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	feedback.problem-subcategory.browser-starts-slowly
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	feedback.problem-subcategory.browser-uses-too-much-memory
@@ -974,23 +913,12 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.delete.dialog.burn.c
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.delete.dialog.burn.checkbox.explanation.with.closing.tabs
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.delete.dialog.chats.checkbox.caption
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.delete.dialog.chats.checkbox.explanation
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.delete.dialog.message
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.delete.dialog.message.markdown
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.delete.dialog.title1
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.delete.older.dialog.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.delete.today.dialog.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.delete.yesterday.dialog.title
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.item.delete.dialog.message
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.item.delete.dialog.message.markdown
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.menu.clear.all.history.description
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.menu.clear.all.history.question
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.menu.clear.data.description
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.menu.clear.data.question
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.menu.clear.data.today.description
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.menu.clear.data.today.question
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.menu.clear.this.history
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.menu.delete.this.history
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.menu.older
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.menu.recently.visited
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.sites.label
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	history.view.onboarding.accept
@@ -1004,7 +932,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	home.page.empty.state.item.t
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	home.page.no.trackers.blocked
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	home.page.no.trackers.found
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	home.page.promotion.freemium.dbp.button.title
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	home.page.promotion.freemium.dbp.description
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	home.page.promotion.freemium.dbp.description.markdown
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	home.page.promotion.freemium.dbp.post.scan.engagement.button.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	home.page.promotion.freemium.dbp.post.scan.engagement.no.results.description
@@ -1036,24 +963,10 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.bookmarks.indefinite.
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.bookmarks.manually.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.bookmarks.number.progress.text
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.bookmarks.safari.permission-button.title
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.bookmarks.select-html-file
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.bookmarks
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.complete.set.up.sync.button.title
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.complete.sync.button.title
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.import-type.subtitle.bookmarks.and.passwords
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.import-type.subtitle.none
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.import-type.title.collapsed
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.import-type.title.collapsed.all
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.onboarding
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.passwords
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.select.profile.title
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.selection.sync.button.title
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.shortcuts
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.shortcuts.subtitle
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.source.subtitle
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.source.title
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.success.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.browser.data.summary.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.choose-source.more-button.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.choose-source.sync-button.action
@@ -1069,41 +982,25 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.credit-cards
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.credit-cards.from.source.automatic.error
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.credit-cards.indefinite.progress.text
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.credit-cards.number.progress.text
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.bitwarden
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.bitwarden.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.brave
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.brave.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.chrome
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.chrome.new.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.chromium
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.chromium.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.coccoc
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.coccoc.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.firefox
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.firefox.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.generic
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.generic.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.lastpass
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.lastpass.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.onePassword7
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.onePassword7.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.onePassword8
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.onePassword8.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.opera
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.opera.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.operagx
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.operagx.new
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.safari
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.safari.macos15-2
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.safari.macos15-2.old
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.vivaldi
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.vivaldi.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.yandex
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.csv.instructions.yandex.new
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.data.alert.cancel
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.data.alert.import
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.data.done
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.data.initiate
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.data.manual
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.data.requires-password.body
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.data.requires-password.title
@@ -1113,21 +1010,13 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.data.skip.bookmarks
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.data.skip.passwords
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.drag-and-drop-file
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.from.file.title
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.chromium
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.chromium.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.firefox
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.firefox.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.generic
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.generic.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.opera
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.opera.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.operagx
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.operagx.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.safari
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.safari.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.vivaldi
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.vivaldi.new
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.yandex
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.yandex.new
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.logins.csv.short.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.logins.csv.title
@@ -1135,12 +1024,7 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.logins.passwords
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.logins.passwords.explainer.autolock.off
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.logins.passwords.explainer.encrypted
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.logins.passwords.explainer2
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.logins.select-csv-file
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.logins.select-csv-file.source
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.nodata.bookmarks.subtitle
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.nodata.passwords.subtitle
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.now.button.title
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.onePassword.app.version.info
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.password.entry.help.dialog.example.text
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.password.entry.help.instructions
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.password.entry.help.show.macos.message.button
@@ -1161,9 +1045,7 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.request-access.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.select-profile.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.select-profiles.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.selected-data.title
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.shortcuts.bookmarks.subtitle
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.shortcuts.bookmarks.title
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.shortcuts.passwords.subtitle
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.shortcuts.passwords.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.bookmarks.imported
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.bookmarks.imported.partial
@@ -1368,7 +1250,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	passsword.management.save.cr
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	passsword.management.save.credentials.fireproof.checkbox.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	passsword.management.save.credentials.password.manager.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	passsword.management.save.credentials.unlock.password.manager
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	passsword.management.save.payment
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	passsword.management.unlock
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	passsword.manager.alert.delete
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	passsword.manager.alert.duplicate.password
@@ -1604,8 +1485,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	ppro.feedback-form.category.
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	ppro.feedback-form.category.something-else
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	ppro.feedback-form.category.unable-to-access-features
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	ppro.feedback-form.disclaimer
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	ppro.feedback-form.email.label
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	ppro.feedback-form.email.placeholder
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	ppro.feedback-form.general-feedback.placeholder
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	ppro.feedback-form.request-feature.placeholder
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	ppro.feedback-form.sending-confirmation.description
@@ -1638,23 +1517,17 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.about.more-at
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.about.privacy-policy
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.about.send-feedback
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.about.terms-of-service
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.about.unsupported-device-info1
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.about.unsupported-device-info2
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.about.update-info.appstore
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.about.update-info.appstore.link
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.about.update-info.appstore.menu
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.about.update-info.appstore.settings
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.about.update-info.sparkle
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.about.will-soon-be-unsupported-device-info-alert-header
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.about.will-soon-be-unsupported-device-info1
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.about.will-soon-be-unsupported-device-info2
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.accessibility
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.ad-blocking.description
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.ad-blocking.youtube-section-header
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.add-DuckDuckGo-to-dock
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.add-to-dock
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.add-to-dock.instructions
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.add-to-dock.instructions-caption
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.add-to-dock.instructions-caption.markdown
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.add-to-dock.show-me-how
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.aiFeatures
@@ -1745,16 +1618,12 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.youtube-ad-block
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.youtube-ad-blocking.unavailable.message
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	preferences.youtube-ad-blocking.unavailable.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	prefrences.sync.bad.request.description
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	prefrences.sync.bookmarks-limit-exceeded-action
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	prefrences.sync.bookmarks-limit-exceeded-description
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	prefrences.sync.bookmarks.too-many-requests
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	prefrences.sync.credentials-limit-exceeded-action
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	prefrences.sync.credentials-limit-exceeded-description
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	prefrences.sync.credentials.bad.request.description
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	prefrences.sync.credit-cards-limit-exceeded-action
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	prefrences.sync.credit-cards-limit-exceeded-description
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	prefrences.sync.credit-cards.bad.request.description
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	prefrences.sync.identities-limit-exceeded-action
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	prefrences.sync.identities-limit-exceeded-description
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	prefrences.sync.identities.bad.request.description
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	prefrences.sync.invalid-login-description
@@ -1773,45 +1642,23 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.initial-question
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.negative-option
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.negative-title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.ad-blocker-didnt-work
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.asked-to-disable-ad-blocker
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.bad-ai-responses
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.benefits-unclear
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.browser-crashed
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.couldnt-change-search-engine
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.couldnt-check-out
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.couldnt-disable-ai
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.couldnt-find-incognito
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.couldnt-import-bookmarks
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.couldnt-import-passwords
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.couldnt-import-pay-details
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.couldnt-sign-in-to-bank
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.couldnt-skip-onboarding
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.fire-button-removed-too-much
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.had-to-re-sign-in
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.hard-to-find-settings
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.hard-to-manage-downloads
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.issue-importing-my-stuff
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.just-trying-it-out
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.more-captchas
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.navigation-unfamiliar
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.no-extensions
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.no-password-manager-extensions
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.no-website-translations
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.not-ready-to-switch-browsers
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.onboarding-wasnt-helpful
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.pages-froze
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.pages-loaded-slowly
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.password-manager-unavailable
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.privacy-concerns
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.shortcuts-didnt-work
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.sign-in-hassles
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.slow-to-open
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.slowed-my-computer
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.something-else
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.tabs-opened-slowly
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.unexpected-search-results
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.unsure-how-history-is-handled
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.videos-didnt-play
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.option.websites-didnt-work
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.positive-option
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	quit-survey.positive-title
@@ -1880,7 +1727,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	send.browser.feedback.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	send.subscription.feedback
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	session.restore.prompt.button.accept
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	session.restore.prompt.button.reject
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	session.restore.prompt.explanation
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	session.restore.prompt.explanation.markdown
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	session.restore.prompt.message
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	session.restore.prompt.title
