@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "scripts/watch_upstream_strings.py"
+      - "scripts/compare_localization_snapshots.py"
       - ".github/workflows/watch-upstream-strings.yml"
   schedule:
     - cron: "17 6 * * *"
@@ -54,8 +55,8 @@ jobs:
           fi
 
           echo "changed=true" >> "$GITHUB_OUTPUT"
-          LC_ALL=C comm -13 upstream-keys.txt upstream-keys.new.txt > added-keys.txt
-          LC_ALL=C comm -23 upstream-keys.txt upstream-keys.new.txt > removed-keys.txt
+          python3 scripts/compare_localization_snapshots.py \
+            upstream-keys.txt upstream-keys.new.txt added-keys.txt removed-keys.txt
           {
             echo "# Změny lokalizačních klíčů DuckDuckGo pro macOS"
             echo
