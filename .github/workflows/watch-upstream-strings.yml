@@ -48,8 +48,8 @@ jobs:
           fi
 
           echo "changed=true" >> "$GITHUB_OUTPUT"
-          comm -13 upstream-keys.txt upstream-keys.new.txt > added-keys.txt
-          comm -23 upstream-keys.txt upstream-keys.new.txt > removed-keys.txt
+          LC_ALL=C comm -13 upstream-keys.txt upstream-keys.new.txt > added-keys.txt
+          LC_ALL=C comm -23 upstream-keys.txt upstream-keys.new.txt > removed-keys.txt
           {
             echo "# Změny lokalizačních klíčů DuckDuckGo pro macOS"
             echo
