@@ -1,6 +1,12 @@
 name: Watch DuckDuckGo localization strings
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/watch_upstream_strings.py"
+      - ".github/workflows/watch-upstream-strings.yml"
   schedule:
     - cron: "17 6 * * *"
   workflow_dispatch:
