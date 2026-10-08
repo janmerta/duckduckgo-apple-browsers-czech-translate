@@ -2479,13 +2479,13 @@ macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcst
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.enter-title
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.example-code
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.paste-code
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.scan-step-1
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.scan-step-1-detail
-macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.scan-step-1-prefix
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.scan-step-3
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.scan-tab
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.scan-title
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.step-2
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.step-2-detail
-macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.step-2-prefix
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.step-4
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device.copy-confirmation.message
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device.copy-confirmation.title
