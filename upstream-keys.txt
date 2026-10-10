@@ -644,6 +644,12 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.hide-ai-generated-ima
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.hide-ai-generated-images-settings.description
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.hide-ai-generated-images.off
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.hide-ai-generated-images.on
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.launcher-promo.add-keyboard-shortcut
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.launcher-promo.add-to-menu-bar
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.launcher-promo.introduction
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.launcher-promo.introduction.settings
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.launcher-promo.message
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.launcher-promo.try-now
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.menu.ask-about-page
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.menu.close-sidebar
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.menu.delete-all-chats
