@@ -248,6 +248,11 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.subscription-upsell-d
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.suggestions.open-duck-ai
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.suggestions.view-all-chats
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.tab-picker.current-tab-suffix
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.termsOfService.ask.button
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.termsOfService.create.button
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.termsOfService.disclaimer
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.termsOfService.disclaimer.create
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.termsOfService.disclaimer.link
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.toggle.ask.label
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.toggle.search.label
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.tools-button.label
@@ -1338,6 +1343,7 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	permission.prompt.allow-this
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	permission.prompt.device.format
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	permission.prompt.location.format
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	permission.prompt.notifications.format
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	permission.prompt.system.camera-and-microphone.required
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	permission.prompt.system.camera.off
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	permission.prompt.system.camera.required
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	permission.prompt.system.location.off
