@@ -342,6 +342,7 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.items.delete-all-pa
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.items.delete-all-passwords-synced-completion-information-text
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.items.delete-all-passwords-synced-confirmation-information-text
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.lock-when-idle
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.managed-by-extension
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.management.credit-cards.unknown.card
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.manager.status.locked
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.manager.status.unlocked
@@ -369,6 +370,7 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.popover.passwords.p
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.popover.settings-button
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.show-card-cvv
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.show-password
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.use-duckduckgo-instead
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.view-autofill-content.credit-cards
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.view-autofill-content.identities
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	autofill.view-autofill-content.passwords
