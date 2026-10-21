@@ -1848,6 +1848,9 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	subscription.upsell.popover.
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	subscription.upsell.popover.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	suggestion.search.privately
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	switch.to.tab
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	sync.close-setup-improved.confirmation.confirm-action
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	sync.close-setup-improved.confirmation.go-back-action
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	sync.close-setup-improved.confirmation.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	sync.close-setup-v2.confirmation.action
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	sync.close-setup-v2.confirmation.message
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	sync.close-setup-v2.confirmation.title
@@ -2447,6 +2450,9 @@ macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcst
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.preparing-to-sync-v2.dialog-title
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.recover-synced-data-v2.button
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.recover-synced-data-v2.section-title
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.recover-synced-data-v3.dialog-button
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.recover-synced-data-v3.dialog-subtitle
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.recover-synced-data-v3.dialog-title
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.recover-synced-data.dialog-button
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.recover-synced-data.dialog-subtitle
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.recover-synced-data.dialog-title
@@ -2458,6 +2464,8 @@ macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcst
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.another-device-prompt-v2.subtitle
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.another-device-prompt-v2.this-device-only-button
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.another-device-prompt-v2.title
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.another-device-prompt-v3.subtitle
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.another-device-prompt-v3.title
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.authentication-cancelled-v2.close-button
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.authentication-cancelled-v2.subtitle
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.authentication-cancelled-v2.title
@@ -2467,6 +2475,7 @@ macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcst
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.delete-account-v2.button
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.delete-account-v2.message
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.delete-account-v2.title
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.delete-server-data-v3.confirm.title
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.device-details-v2.close-button
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.device-details-v2.done-button
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.device-details-v2.name-label
@@ -2484,6 +2493,9 @@ macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcst
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.remove-device-v2.button
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.remove-device-v2.message
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.remove-device-v2.title
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.remove-device-v3.button
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.remove-device-v3.message
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.remove-device-v3.title
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.share-favorite-option-caption-v2
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.share-favorite-option-title-v2
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.success-v2.copied-code-button
@@ -2493,6 +2505,9 @@ macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcst
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.success-v2.fallback-device-name
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.success-v2.recovery-code-label
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.success-v2.title
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-this-device-fallback.button
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-this-device-fallback.subtitle
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-this-device-fallback.title
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.copied
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.copy-confirmation-message
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.sync-with-another-device-v2.copy-confirmation-title
@@ -2512,6 +2527,13 @@ macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcst
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.this-device
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.turn-off
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.turn-off-and-delete-data-v2
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.turn-off-sync-v3.delete.button
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.turn-off-sync-v3.delete.message
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.turn-off-sync-v3.delete.title
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.turn-off-sync-v3.delete.toggle
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.turn-off-sync-v3.delete.toggle.caption
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.turn-off-sync-v3.remove-device.button
+macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.turn-off-sync-v3.settings-button
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.turn-off.confirm.message
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	preferences.sync.turn-off.confirm.title
 macOS/LocalPackages/SyncUI-macOS/Sources/SyncUI-macOS/Resources/Localizable.xcstrings	prefrences.sync.bookmarks-limit-exceeded-action
