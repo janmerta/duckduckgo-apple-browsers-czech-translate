@@ -120,6 +120,7 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.address-bar.show-butt
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.address-bar.toggle-sidebar-button
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.address-bar.trusted-indicator
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.ask-privately.tooltip
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.add-screenshot
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.attach-tabs
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.files
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.files-typed
@@ -128,6 +129,8 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.images
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.images-or-files-typed
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.no-open-tabs
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.recent-tabs-header
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.screenshot.drag-to-select
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.screenshot.select-window-or-display
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-menu.tabs-header
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-tabs-modal.attach
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attach-tabs-modal.count
@@ -151,6 +154,9 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachment.unsupporte
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachment.unsupported.file.type.multiple
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachment.unsupported.file.type.single
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachments.limit-error
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachments.pasted-image-name
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachments.screenshot-failed
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.attachments.screenshot-name
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.chrome.hide-ask-duckai-button
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.chrome.hide-duckai-button
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.chrome.hide-sidebar-button
@@ -228,6 +234,16 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.reasoning-effort.medi
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.reasoning-effort.medium.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.remove-attachment-button.accessibility
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.remove-attachment-button.tooltip
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.screenshot.permission.message
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.screenshot.permission.open-settings
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.screenshot.permission.settings-message
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.screenshot.permission.title
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.screenshot.picker.capture
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.screenshot.picker.displays-tab
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.screenshot.picker.no-windows
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.screenshot.picker.select-display
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.screenshot.picker.select-window
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.screenshot.picker.windows-tab
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.search-privately.tooltip
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.search-toggle-button.tooltip
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	aichat.send-button.tooltip
