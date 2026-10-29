@@ -1006,6 +1006,7 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.chrome.allow-keychain
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.could.not.import.bookmarks
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.could.not.import.credit-cards
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.could.not.import.file
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.could.not.import.history
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.could.not.import.passwords
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.credit-cards
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.credit-cards.from.source.automatic.error
@@ -1039,6 +1040,9 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.data.skip.bookmarks
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.data.skip.passwords
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.drag-and-drop-file
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.from.file.title
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.history
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.history.indefinite.progress.text
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.history.number.progress.text
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.chromium.new
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.firefox.new
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.html.instructions.generic.new
@@ -1088,6 +1092,8 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.details.passw
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.details.total.passwords.imported
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.duplicates.skipped
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.failed.to.import
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.history.imported
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.history.imported.partial
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.passwords.imported
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.passwords.imported.partial
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.send.feedback.anonymous.reports
@@ -1099,6 +1105,8 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.type-selection.title.
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.type-selection.title.bookmarks
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.type-selection.title.passwords
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.zip.instructions.safari
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.zip.instructions.safari.bookmarks
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.zip.instructions.safari.passwords
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	invite.dialog.get.started.button
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	invite.dialog.unrecognized.code.message
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	itr.feedback-form.category.access-code
