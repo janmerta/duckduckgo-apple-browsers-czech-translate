@@ -1078,10 +1078,14 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.select-profiles.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.selected-data.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.shortcuts.bookmarks.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.shortcuts.passwords.title
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.bookmarks
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.bookmarks.imported
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.bookmarks.imported.partial
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.bookmarks.partial
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.credit.cards
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.credit.cards.imported
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.credit.cards.imported.partial
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.credit.cards.partial
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.details.failed.item.error
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.details.failed.item.host
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.details.failed.item.title
@@ -1092,8 +1096,12 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.duplicates.sk
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.failed.to.import
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.history.imported
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.history.imported.partial
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.history.time-range
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.history.visits
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.passwords
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.passwords.imported
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.passwords.imported.partial
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.passwords.partial
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.send.feedback.anonymous.reports
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.send.feedback.field.placeholder.text
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	import.summary.send.feedback.shows.detail.button.title
