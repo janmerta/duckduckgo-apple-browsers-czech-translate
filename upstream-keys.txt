@@ -672,6 +672,11 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.launcher-promo.introd
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.launcher-promo.introduction.settings
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.launcher-promo.message
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.launcher-promo.try-now
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.local-model-access.no-thanks
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.local-model-access.prompt.message
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.local-model-access.prompt.title
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.local-model-access.turn-off
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.local-model-access.turn-on
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.menu.ask-about-page
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.menu.close-sidebar
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.menu.delete-all-chats
@@ -704,6 +709,11 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.search-assist.never
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.search-assist.often
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.search-assist.on-demand
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.search-assist.sometimes
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.settings.local-model-access.apple-intelligence.caption
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.settings.local-model-access.caption
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.settings.local-model-access.title
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.settings.local-model-access.turn-on-confirmation.message
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.settings.local-model-access.turn-on-confirmation.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.shortcuts.section.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.show-ask-duckai-button-in-tab-bar.label
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	duckai.show-duckai-button-in-tab-bar.label
