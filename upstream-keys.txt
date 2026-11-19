@@ -2111,6 +2111,8 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.autofill.manag
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.autofill.managed-by-extension.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.install.button
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.install.title
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.nativeMessagingUnavailable.dontShowAgain
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.nativeMessagingUnavailable.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.permissions.allWebsites
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.permissions.allow
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.permissions.bookmarks
@@ -2133,6 +2135,7 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.permissions.hi
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.permissions.management
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.permissions.manyWebsites
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.permissions.nativeMessaging
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.permissions.nativeMessagingUnavailable
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.permissions.none
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.permissions.notifications
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.permissions.privacy
@@ -2155,6 +2158,9 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.settings.discl
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.settings.get
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.settings.learn-more
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.settings.more-options
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.settings.nativeMessaging.message
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.settings.nativeMessaging.message.download
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.settings.nativeMessaging.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.settings.permission.accessibility-features-modify
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.settings.permission.accessibility-features-read
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	webExtensions.settings.permission.bookmarks
