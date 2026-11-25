@@ -597,6 +597,8 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.subscr
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.subscription-upsell.decline-button
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.subscription-upsell.message
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.subscription-upsell.title
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.thats-duck-ai.message
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.thats-duck-ai.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.try-a-search.message
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.try-a-search.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.try-a-site.message
@@ -1964,7 +1966,6 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	subscription.upsell.popover.
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	subscription.upsell.popover.features.shield.online.activity.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	subscription.upsell.popover.plus.features.pir.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	subscription.upsell.popover.plus.features.section.title
-macOS/DuckDuckGo/Localization/Localizable.xcstrings	subscription.upsell.popover.plus.features.subtitle
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	subscription.upsell.popover.plus.features.subtitle.count
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	subscription.upsell.popover.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	suggestion.search.privately
@@ -2553,6 +2554,7 @@ macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.
 macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.xcstrings	subscription.dialog.remove.title
 macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.xcstrings	subscription.dialog.withdraw.confirm.button
 macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.xcstrings	subscription.dialog.withdraw.error.message
+macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.xcstrings	subscription.dialog.withdraw.feature.advanced.duckai
 macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.xcstrings	subscription.dialog.withdraw.features.message
 macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.xcstrings	subscription.dialog.withdraw.keep.button
 macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.xcstrings	subscription.dialog.withdraw.message
@@ -2630,7 +2632,6 @@ macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.
 macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.xcstrings	subscription.preferences.subscription.settings.section.title
 macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.xcstrings	subscription.preferences.subscription.settings.subscribed
 macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.xcstrings	subscription.preferences.subscription.settings.title
-macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.xcstrings	subscription.preferences.update.plan.or.cancel.button
 macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.xcstrings	subscription.preferences.view.faqs.button
 macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.xcstrings	subscription.preferences.withdraw.button
 macOS/LocalPackages/SubscriptionUI/Sources/SubscriptionUI/Resources/Localizable.xcstrings	subscription.preferences.withdraw.section.caption
