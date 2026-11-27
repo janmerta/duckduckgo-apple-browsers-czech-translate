@@ -603,6 +603,9 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.try-a-
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.try-a-search.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.try-a-site.message
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.try-a-site.title
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.try-duck-ai.button
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.try-duck-ai.message
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.try-duck-ai.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.try-fire-button.button
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.try-fire-button.message
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	contextual.onboarding.try-fire-button.skip
@@ -955,6 +958,7 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	fire.dialog.deleting.all.dat
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	fire.dialog.deleting.data.from.this.tab
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	fire.dialog.deliting.data
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	fire.dialog.details
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	fire.dialog.duck-ai-onboarding.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	fire.dialog.fire-window.close-tabs
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	fire.dialog.fire-window.close-tabs-chats
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	fire.dialog.fire-window.description
@@ -2073,6 +2077,11 @@ macOS/DuckDuckGo/Localization/Localizable.xcstrings	tracking.protection.targeted
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	tracking.protection.targeted.ads.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	tracking.protection.third.party.trackers.description
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	tracking.protection.third.party.trackers.title
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	translate-pages.settings.always-ask
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	translate-pages.settings.detail
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	translate-pages.settings.never-ask
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	translate-pages.settings.system-language
+macOS/DuckDuckGo/Localization/Localizable.xcstrings	translate-pages.settings.title
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	uninstall
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	unmute.tab
 macOS/DuckDuckGo/Localization/Localizable.xcstrings	unpin.tab
